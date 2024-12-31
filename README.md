@@ -1,3 +1,3 @@
 # newyear
 用vite+react+ts实现一个简单的新年祝福页面
-![./newyear.png]()
+![./newyear.png](newyear.png)
